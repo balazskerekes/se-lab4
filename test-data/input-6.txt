@@ -1,0 +1,4 @@
+#Create a ship that has at least two torpedos, only the first chamber contains torpedos
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
